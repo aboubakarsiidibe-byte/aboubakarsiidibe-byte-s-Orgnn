@@ -1,0 +1,6 @@
+{
+  "name": "SecuStock — Gestion de Stock Sécurité",
+  "description": "Application professionnelle de gestion de stock et de matériel de sécurité (caméras, alarmes, contrôles d'accès, EPI) avec suivi des mouvements, inventaires et alertes en FCFA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
